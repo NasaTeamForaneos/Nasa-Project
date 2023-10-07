@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Nasa-Project</string>
+    <string name="app_name">Eco Tiles</string>
+    <string name="welcome_string">Welcome!</string>
+    <string name="acronym">Understanding Water, Protecting Nature</string>
 </resources>
