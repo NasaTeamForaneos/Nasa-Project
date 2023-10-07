@@ -1,0 +1,36 @@
+{
+  "marine-places": [
+    {
+      "id": 1,
+      "wave_height": 2,
+      "wave_direction": 3,
+      "wave_period": 4,
+      "wind_waves": 5,
+      "wind": 5,
+      "water_temperature": 6,
+      "ice_coverage": 7,
+      "visibility": 7,
+      "marine-bio": {
+        "salinity": 3,
+        "ph": 4,
+        "oxygen": 6
+      }
+    },
+    {
+      "id": 2,
+      "wave_height": 2,
+      "wave_direction": 3,
+      "wave_period": 4,
+      "wind_waves": 5,
+      "wind": 5,
+      "water_temperature": 6,
+      "ice_coverage": 7,
+      "visibility": 7,
+      "marine-bio": {
+        "salinity": 3,
+        "ph": 4,
+        "oxygen": 6
+      }
+    }
+  ]
+}
