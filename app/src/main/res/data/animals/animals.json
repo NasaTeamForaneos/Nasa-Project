@@ -1,0 +1,81 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Amazon River Dolphin",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmazon_river_dolphin&psig=AOvVaw19CmCk_WAAlGW-CVuXam0y&ust=1696801597092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjsxdX05IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "South America",
+      "extinction_causes": "Threatened due to habitat loss and pollution."
+    },
+    {
+      "id": 2,
+      "name": "Arapaima",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArapaima&psig=AOvVaw3LZ-VVcHoQIFlifLX4H4WE&ust=1696801628348000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjfrOT05IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "South America",
+      "extinction_causes": "Facing threats from overfishing and habitat destruction."
+    },
+    {
+      "id": 3,
+      "name": "South American River Turtle",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArrau_turtle&psig=AOvVaw3CitLONBKpYwgUkdQ6OjQ4&ust=1696801668427000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCay_f05IEDFQAAAAAdAAAAABAQ",
+      "region_identifier": "South America",
+      "extinction_causes": "Threatened by hunting for their eggs, meat, and shells, leading to a decline in population."
+    },
+    {
+      "id": 4,
+      "name": "Giant Otter",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dkfindout.com%2Fuk%2Fanimals-and-nature%2Fotters%2Fgiant-otter%2F&psig=AOvVaw2bar_rGs5qmQjp0ymZruxx&ust=1696801698451000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjS34X15IEDFQAAAAAdAAAAABAJ",
+      "region_identifier": "South America",
+      "extinction_causes": "Endangered due to habitat loss, hunting, and pollution."
+    },
+    {
+      "id": 5,
+      "name": "La Plata Dolphin",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fyaqupacha.de%2Fen%2Fla-plata-delfin%2F&psig=AOvVaw0Qnyu6yXlZIRfMmkakzb_t&ust=1696801789792000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCBsrH15IEDFQAAAAAdAAAAABA1",
+      "region_identifier": "South America",
+      "extinction_causes": "Critically endangered due to accidental capture in fishing gear."
+    },
+    {
+      "id": 6,
+      "name": "Orinoco Crocodile",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwildark.org%2Fspecies%2Forinoco-crocodile%2F&psig=AOvVaw2dzzbhc6E3TgXQjoilwqsU&ust=1696801863012000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCVoNT15IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "South America",
+      "extinction_causes": "Critically endangered due to habitat loss, hunting, and egg collection."
+    },
+    {
+      "id": 7,
+      "name": "Green Sea Turtle",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.barrierreef.org%2Fnews%2Fblog%2Fhistoric-agreement-to-protect-green-turtles&psig=AOvVaw0AvkCW-JHmK5tBI9Q87Xc3&ust=1696801882214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDat9315IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "South America",
+      "extinction_causes": "Faces threats like habitat loss, pollution, and poaching, despite being found in various oceans."
+    },
+    {
+      "id": 8,
+      "name": "Southern Bluefin Tuna",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgreatsouthernreef.com%2Fsouthern-bluefin-tuna&psig=AOvVaw2WID5VH6jIoKzC3gqwE9sK&ust=1696801927734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDlm_P15IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "South America",
+      "extinction_causes": "Overfishing. Canning has been the most significant local use of this prized fish until the early 1980s, with Japan being the main market for food trade. These fish inhabit depths of around 1000 meters in the sea and can be found in the oceans near the coasts of Argentina, Uruguay, Brazil, Madagascar, Indonesia, South Africa, and even Australia."
+    },
+    {
+      "id": 9,
+      "name": "Manatí del Amazonas",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmangroveactionproject.org%2F2020%2F11%2F26%2Fconserving-biodiversity-manatees-of-gabon-in-west-central-africa%2F&psig=AOvVaw23iUboirUry291Muj3BXtH&ust=1696801724493000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCau5_15IEDFQAAAAAdAAAAABAJ",
+      "region_identifier": "Amazon Basin, South America",
+      "extinction_causes": "Population has declined by 30% in recent years, primarily due to habitat loss and mercury poisoning caused by illegal mining. The Amazonian Manatee is one of the three manatee species found in South America and Africa."
+    },
+    {
+      "id": 10,
+      "name": "Huillín",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffindelmundo.tur.ar%2Fes%2Fguia-campo%2F614&psig=AOvVaw2UkVRkTAli_2f8_NXC9DLg&ust=1696801960720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiq54L25IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "Patagonia, South America",
+      "extinction_causes": "Endangered mainly due to habitat destruction and the introduction of the American mink, a species competing with the Huillín for food and habitat. The Huillín (Lontra provocax) is an aquatic mammal endemic to Patagonia, feeding on crustaceans."
+    },
+    {
+      "id": 11,
+      "name": "Patagonian Frog",
+      "animal_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftherevelator.org%2Fel-rincon-stream-frog%2F&psig=AOvVaw0BqWn9tqxjL7VlX_BBHs05&ust=1696801997752000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiswJT25IEDFQAAAAAdAAAAABAE",
+      "region_identifier": "Laguna Blanca, Northwest Patagonia, Argentina",
+      "extinction_causes": "In critical danger of extinction due to the pollution of the waters in Laguna Blanca, where it resides. The Patagonian Frog (Atelognathus patagonicus) is an amphibian species highly sensitive to environmental changes, especially in its skin."
+    }
+  ]
+}
